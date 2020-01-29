@@ -146,6 +146,9 @@ dist/
 # DynamoDB Local files
 .dynamodb/
 
+# vscode
+.vscode
+
 # Temporary folders
 tmp/
 temp/
